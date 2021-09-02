@@ -1,0 +1,38 @@
+button.proj1, .proj1 button {
+    background-color: #458;
+    color: #fff;
+}
+button.proj1:hover, .proj1 button:hover {
+    background-color: #fff;
+    outline-color: #458;
+    color: #458;
+}
+.proj1.window h1 {
+    background-color: #458;
+}
+
+button.proj2, .proj2 button {
+    background-color: #485;
+    color: #fff;
+}
+button.proj2:hover, .proj2 button:hover {
+    background-color: #fff;
+    outline-color: #485;
+    color: #485;
+}
+.proj2.window h1 {
+    background-color: #485;
+}
+
+button.proj3, .proj3 button {
+    background-color: #845;
+    color: #fff;
+}
+button.proj3:hover, .proj3 button:hover {
+    background-color: #fff;
+    outline-color: #845;
+    color: #845;
+}
+.proj3.window h1 {
+    background-color: #845;
+}
